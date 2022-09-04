@@ -1,1 +1,1 @@
-# ms-config-repo
+# config-repo
